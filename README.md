@@ -1,1 +1,1 @@
-test django
+test django app
